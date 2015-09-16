@@ -1,0 +1,9 @@
+[16-Sep-2015 10:11:19 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/PHP Sergy/Login/conexion.php on line 27
+[16-Sep-2015 10:11:19 UTC] PHP Stack trace:
+[16-Sep-2015 10:11:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP Sergy/Login/index.php:0
+[16-Sep-2015 10:11:19 UTC] PHP   2. include_once() /home/ubuntu/workspace/PHP Sergy/Login/index.php:17
+[16-Sep-2015 10:11:19 UTC] PHP   3. mysql_close() /home/ubuntu/workspace/PHP Sergy/Login/conexion.php:27
+[16-Sep-2015 10:12:30 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, null given in /home/ubuntu/workspace/PHP Sergy/Login/conexion.php on line 27
+[16-Sep-2015 10:12:30 UTC] PHP Stack trace:
+[16-Sep-2015 10:12:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/PHP Sergy/Login/conexion.php:0
+[16-Sep-2015 10:12:30 UTC] PHP   2. mysql_close() /home/ubuntu/workspace/PHP Sergy/Login/conexion.php:27

@@ -1,20 +1,16 @@
 <html>
     <head>
-        <title>Hello World</title>
+        <title>Login</title>
     </head>
     <body>
         
     </body>
-    <form action="Login.php" method="post">
+    <form action="conexion.php" method="post">
     Usuario: <input type="text" name="usuario"><br>
     Password: <input type="password" name="password"><br>
   
-    <input type="submit" value="crear"> 
+    <input type="submit" value="Entrar"> 
 
   </form>
- <?php
-session_start();
-include_once "conexion.php";
-?>
 </body>
 </html>
